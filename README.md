@@ -1,4 +1,5 @@
 # vue3-demo：自动化部署测试demo
+# 依赖于Nginx服务
 
 ## Project setup
 ```
