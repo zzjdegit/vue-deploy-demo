@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>Hello Nginx</h1>
     <h1>{{ msg }}</h1>
+    <h2>测试一下自动化部署，提交下更新代码啦，O(∩_∩)O哈哈~</h2>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
